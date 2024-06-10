@@ -88,7 +88,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="[/assets/programmer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4502924-Python-developer-animation&psig=AOvVaw3_b9VvrysFC13RikFFXesb&ust=1718116176823000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCahtSf0YYDFQAAAAAdAAAAABAE)" alt="Coding gif" />
+ <img align="right" width="350" src="python-2.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
