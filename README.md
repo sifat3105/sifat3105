@@ -12,7 +12,7 @@
 [![wakatime](https://wakatime.com/badge/user/76895c5c-4b18-46d1-bf52-6e7aeb353334/project/5eba3851-d1f5-4835-b17c-d3c80e136f87.svg)](https://wakatime.com/badge/user/76895c5c-4b18-46d1-bf52-6e7aeb353334/project/5eba3851-d1f5-4835-b17c-d3c80e136f87)
 
 <p align="center">
-  <a href="https://github.com/sifat3105"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Back+End+Developer+;1+year+of+coding+experience+;Always+learn+new+things+;self+thought+programmer+"></a>
+  <a href="https://github.com/sifat3105"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Back+End+Developer+;1+year+of+coding+experience+;Always+learn+new+things+;self+thought+programmer+"></a>
 </p>
 
  
