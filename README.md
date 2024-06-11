@@ -8,7 +8,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=sifat3105&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
 [![wakatime](https://wakatime.com/badge/user/76895c5c-4b18-46d1-bf52-6e7aeb353334.svg)](https://wakatime.com/@76895c5c-4b18-46d1-bf52-6e7aeb353334)
 
 <p align="center">
