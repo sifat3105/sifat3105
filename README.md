@@ -8,7 +8,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=sifat3105&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/76895c5c-4b18-46d1-bf52-6e7aeb353334.svg)](https://wakatime.com/@76895c5c-4b18-46d1-bf52-6e7aeb353334)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sifat360)
 
 <p align="center">
   <a href="https://github.com/sifat3105"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Back+End+Developer+;1+year+of+coding+experience+;Always+learn+new+things+;self+thought+programmer+"></a>
