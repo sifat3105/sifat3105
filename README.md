@@ -9,7 +9,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/76895c5c-4b18-46d1-bf52-6e7aeb353334/project/3b4555ad-e0be-456b-8e8b-cf25d034d204.svg)](https://wakatime.com/badge/user/76895c5c-4b18-46d1-bf52-6e7aeb353334/project/3b4555ad-e0be-456b-8e8b-cf25d034d204)
+[![wakatime](https://wakatime.com/badge/user/76895c5c-4b18-46d1-bf52-6e7aeb353334.svg)](https://wakatime.com/@76895c5c-4b18-46d1-bf52-6e7aeb353334)
 
 <p align="center">
   <a href="https://github.com/sifat3105"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Back+End+Developer+;1+year+of+coding+experience+;Always+learn+new+things+;self+thought+programmer+"></a>
